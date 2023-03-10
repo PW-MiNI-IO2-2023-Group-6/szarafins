@@ -10,6 +10,7 @@ namespace Workshop2023Gr6
     {
         public static int Calculate(string str)
         {
+            
             if(String.IsNullOrEmpty(str)) 
                 return 0;
 
