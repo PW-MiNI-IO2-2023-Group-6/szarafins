@@ -34,7 +34,7 @@ namespace Workshop2023Gr6
                 }
                 else return 0;
             }
-            return sum;
+            return sum + 1;
 
         }
     }
